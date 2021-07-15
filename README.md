@@ -14,6 +14,8 @@ Last updated: July 15, 2021
 *A very simple example of loading in some CESM data and saving one timestep.*
 5. plot_cosp_scam_cam6.ipynb  
 *Plots outputs (including COSP2) from the MPACE SCAM case - to be used for Arctic research and for COSP2 development*
+6. python_gotchas.ipynb  
+*shows some gotchas for python programming*
 
 ### To be added eventually... 
 1. simple_CESM_spatial_plot_xarray.ipynb   
