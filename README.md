@@ -16,9 +16,8 @@ Last updated: July 15, 2021
 *Plots outputs (including COSP2) from the MPACE SCAM case - to be used for Arctic research and for COSP2 development*
 6. python_gotchas.ipynb  
 *shows some gotchas for python programming*
+7. CERES-EBAF_plot_global_map_energy_balance.ipynb  
+*Example of making a global map plot of data in netcdf format using cartopy (here data from CERES-EBAF)*
 
 ### To be added eventually... 
-1. simple_CESM_spatial_plot_xarray.ipynb   
-*Example of extracting and making a simple spatial plot with CESM data*
-2. beautifying_spatial_plot_cartopy.ipynb   
-*Making a plot publishing quality in cartopy.*
+1. XXX
