@@ -1,5 +1,6 @@
 # Kay_lab_python_code
 A repository of basic python code as a resource for the Kay lab group.
+Last updated: July 15, 2021
 
 ### List of files and their functionality
 1. vertical_cross_section_example.ipynb   
@@ -11,6 +12,8 @@ A repository of basic python code as a resource for the Kay lab group.
 *Instructions for installing PyNGL & utilizing the vertical cross-section python codes above. Also describes the process of pushing/pulling from Github to make changes to a repo.*
 4. output_netcdf_file.ipynb  
 *A very simple example of loading in some CESM data and saving one timestep.*
+5. plot_cosp_scam_cam6.ipynb  
+*Plots outputs (including COSP2) from the MPACE SCAM case - to be used for Arctic research and for COSP2 development*
 
 ### To be added eventually... 
 1. simple_CESM_spatial_plot_xarray.ipynb   
