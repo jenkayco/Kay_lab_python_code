@@ -18,6 +18,7 @@ Last updated: July 15, 2021
 *shows some gotchas for python programming*
 7. CERES-EBAF_plot_global_map_energy_balance.ipynb  
 *Example of making a global map plot of data in netcdf format using cartopy (here data from CERES-EBAF)*
+8. regridding CESM sea ice to a lat-lon grid (contributed by Patricia)
 
 ### To be added eventually... 
 1. XXX
