@@ -1,6 +1,6 @@
 # Kay_lab_python_code
 A repository of basic python code as a resource for the Kay lab group.
-Last updated: July 15, 2021
+Last updated: October 2022
 
 ### List of files and their functionality
 1. vertical_cross_section_example.ipynb   
