@@ -26,7 +26,7 @@ Plots outputs (including COSP2) from the MPACE SCAM case - to be used for Arctic
 7) CERES-EBAF_plot_global_map_energy_balance.ipynb
 Example of making a global map plot of data in netcdf format using cartopy (here data from CERES-EBAF)
 
-8) regridding CESM sea ice to a lat-lon grid (contributed by Patricia)
+8) regridding CESM sea ice to a lat-lon grid (contributed by Patricia).  See README_regrid.md for more information.
 
 To be added eventually...
 (insert your idea here)
